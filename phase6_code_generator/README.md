@@ -9,7 +9,7 @@ ADD
 MUL
 
 ## Input File
-codegen_input.txt
+input.txt
 
 ## Sample Input
 t1 = c * d
