@@ -4,7 +4,7 @@
 Removes redundant temporary variables.
 
 ## Input File
-optimizer_input.txt
+input.txt
 
 ## Sample Input
 t1 = c * d
