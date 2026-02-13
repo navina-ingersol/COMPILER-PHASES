@@ -4,7 +4,7 @@
 Generates Three Address Code (TAC).
 
 ## Input File
-icg_input.txt
+input.txt
 
 ## Sample Input
 a = b + c * d
