@@ -27,31 +27,37 @@ Compiler-Design/
 ├── Phase1_Lexical/
 │   ├── lexer.py
 │   ├── input.txt
+│   ├── output.txt
 │   └── README.md
 │
 ├── Phase2_Syntax/
 │   ├── syntax.py
 │   ├── input.txt
+│   ├── output.txt
 │   └── README.md
 │
 ├── Phase3_Semantic/
 │   ├── semantic.py
 │   ├── input.txt
+│   ├── output.txt
 │   └── README.md
 │
 ├── Phase4_ICG/
 │   ├── icg.py
 │   ├── input.txt
+│   ├── output.txt
 │   └── README.md
 │
 ├── Phase5_Optimizer/
 │   ├── optimizer.py
 │   ├── input.txt
+│   ├── output.txt
 │   └── README.md
 │
 ├── Phase6_CodeGen/
 │   ├── codegen.py
 │   ├── input.txt
+│   ├── output.txt
 │   └── README.md
 │
 └── README.md
