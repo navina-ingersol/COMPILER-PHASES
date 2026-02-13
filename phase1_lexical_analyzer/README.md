@@ -22,4 +22,4 @@ NUMBER      : 5
 SEPARATOR   : ;
 
 ## How to Run
-python lexical_analyzer.py
+python lexer.py
