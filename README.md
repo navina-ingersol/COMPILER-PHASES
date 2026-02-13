@@ -25,7 +25,7 @@ The project simulates how a real compiler processes source code step-by-step and
 Compiler-Design/
 │
 ├── Phase1_Lexical/
-│   ├── lexical_analyzer.py
+│   ├── lexer.py
 │   ├── input.txt
 │   └── README.md
 │
@@ -36,22 +36,22 @@ Compiler-Design/
 │
 ├── Phase3_Semantic/
 │   ├── semantic.py
-│   ├── semantic_input.txt
+│   ├── input.txt
 │   └── README.md
 │
 ├── Phase4_ICG/
 │   ├── icg.py
-│   ├── icg_input.txt
+│   ├── input.txt
 │   └── README.md
 │
 ├── Phase5_Optimizer/
 │   ├── optimizer.py
-│   ├── optimizer_input.txt
+│   ├── input.txt
 │   └── README.md
 │
 ├── Phase6_CodeGen/
 │   ├── codegen.py
-│   ├── codegen_input.txt
+│   ├── input.txt
 │   └── README.md
 │
 └── README.md
