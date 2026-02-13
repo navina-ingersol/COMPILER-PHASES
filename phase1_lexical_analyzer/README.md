@@ -23,6 +23,3 @@ This is the **first stage** of the compilation process.
 
 Lexical Analysis is the process of breaking source code into small meaningful units called **tokens**.
 
-### Example
-
-#### Input
