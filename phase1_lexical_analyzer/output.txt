@@ -1,0 +1,16 @@
+KEYWORD     : int
+IDENTIFIER  : x
+OPERATOR    : =
+NUMBER      : 10
+SEPARATOR   : ;
+KEYWORD     : if
+SEPARATOR   : (
+IDENTIFIER  : x
+OPERATOR    : ==
+NUMBER      : 10
+SEPARATOR   : )
+SEPARATOR   : {
+KEYWORD     : return
+IDENTIFIER  : x
+SEPARATOR   : ;
+SEPARATOR   : }
