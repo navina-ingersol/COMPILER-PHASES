@@ -7,7 +7,7 @@ Checks:
 - Usage before declaration
 
 ## Input File
-semantic_input.txt
+input.txt
 
 ## Sample Input
 int a
